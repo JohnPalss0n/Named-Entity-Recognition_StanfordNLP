@@ -6,6 +6,6 @@
 - Фамилия: string
 - Имя: string
 - Отчество: string
-- Дата рождения:string
+- Дата рождения: string
 - Адрес проживания: string
-- Телефон:string
+- Телефон: string
